@@ -14,7 +14,7 @@ section#area-cartas {
 }
 
 .cartas{
-    border: 1px solid black;
+    border: 1px solid red;
     border-radius: 20px;
     min-width: 100px;
     background-color: white;
